@@ -28,4 +28,5 @@ To run the scripts, you will need Python 3.8+ and the following libraries:
 
 You can install the dependencies using:
 ```bash
+
 pip install -r requirements.txt
